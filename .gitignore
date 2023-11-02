@@ -1,1 +1,3 @@
 **/.ruby-lsp
+**/target/**
+**/.idea/**
