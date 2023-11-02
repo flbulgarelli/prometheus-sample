@@ -21,11 +21,12 @@ Seguí las instrucciones e iniciá el servidor. Luego ingresá a http://localhos
 
 Observá como cambian estas gráficas a medida que se realizan pedidos HTTP a cada uno de los servidores. Compará los resultados con las rutas `/metrics` de cada uno de los servidores y como los mismos pueden ser filtrados utilizando el operador `{}`. Ejemplos: 
 
-![image](https://github.com/flbulgarelli/prometheus-sample/assets/677436/bee70cd2-e393-4b84-af11-ce6f8d781e38)
+![Screenshot 2023-11-02 at 02-10-49 Prometheus Time Series Collection and Processing Server](https://github.com/flbulgarelli/prometheus-sample/assets/677436/c000bdd6-e1ad-487d-9a0b-bb46474a642e)
 
-![Screenshot 2023-11-02 at 01-52-24 Prometheus Time Series Collection and Processing Server](https://github.com/flbulgarelli/prometheus-sample/assets/677436/e432567f-6bde-4d92-8cf6-564bbf44dcbc)
+![Screenshot 2023-11-02 at 01-52-24 Prometheus Time Series Collection and Processing Server](https://github.com/flbulgarelli/prometheus-sample/assets/677436/7b15fa39-6f57-438c-9de5-776d8a06913f)
 
-![Screenshot 2023-11-02 at 01-53-57 Prometheus Time Series Collection and Processing Server](https://github.com/flbulgarelli/prometheus-sample/assets/677436/e770886f-23f1-4cf5-ada8-eb2b5173ae0e)
+![Screenshot 2023-11-02 at 01-53-57 Prometheus Time Series Collection and Processing Server](https://github.com/flbulgarelli/prometheus-sample/assets/677436/b089e8f3-1aff-4e59-8945-3affd772b316)
+
 
 ¿Qué otros tipos de métricas se pueden encontrar?
 
